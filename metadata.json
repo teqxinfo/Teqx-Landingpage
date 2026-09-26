@@ -1,0 +1,6 @@
+{
+  "name": "TEQX",
+  "description": "TEQX connects healthcare teams, automates appointment workflows, and simplifies patient communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
